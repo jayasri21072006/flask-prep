@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.env
+weather_data.csv
+weather_data.xlsx
+weather_data.xml
